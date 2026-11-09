@@ -14,7 +14,7 @@ Copy-ready answers for the Devpost form, the video, and social posts. Figures ar
 
 **Try it:** https://allowance.onrender.com/app/ (PayPal sandbox; see "Testing instructions")
 
-**Repository:** https://github.com/HarshitaAdlakha/allowance (MIT; mirror: https://github.com/HarshitaAdlakha/allowance)
+**Repository:** https://github.com/HarshitaAdlakha/allowance (MIT; mirror: https://github.com/ParasAdlakha/allowance)
 
 **Video:** _YouTube link (public, under 3 minutes)_
 
